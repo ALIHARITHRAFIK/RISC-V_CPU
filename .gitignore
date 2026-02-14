@@ -1,20 +1,15 @@
-# Vivado generated files - IGNORE THESE
+# Vivado Folders
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.runs/
+.Xil/
+
+# Vivado Files
 *.jou
 *.log
 *.dcp
 *.bit
 *.bin
-*.xml
-*.html
-*.wdb
-.Xil/
-.cache/
-.ip_user_files/
-.hw/
 *.str
-*.vdi
-*.rpt
-usage_statistics_webtalk.xml
-
-# Keep source code (optional logic, but usually automatic)
-# Git saves .v, .sv, .vhd, .xdc automatically, so you don't need to list them here.
