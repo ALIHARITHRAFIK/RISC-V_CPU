@@ -1,22 +1,4 @@
 `timescale 1ns / 1ps
-/////////////////////////////////////////////////////////////////////////////////
-// Engineer: Ali Harith Rafik 
-// 
-// Create Date: 01/19/2026 11:10:46 PM
-// Design Name: ALU
-// Module Name: riscv_alu
-// Project Name: riscv alu
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
 
 
 module riscv_alu(
