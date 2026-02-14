@@ -1,0 +1,12 @@
+# Vivado Junk
+*.jou
+*.log
+*.dcp
+*.bit
+*.bin
+.Xil/
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+*.runs/
